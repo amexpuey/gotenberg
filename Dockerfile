@@ -1,1 +1,0 @@
-gotenberg/gotenberg:8
